@@ -1,0 +1,12 @@
+ MÉTRICAS DE EVALUACIÓN
+ Cobertura de beats: 0.06
+ Densidad de clips: 1.10
+ Número de clips: 22
+ Duración del audio: 17.21 s
+ Diversidad de escenas: 15.96%
+ Diversidad de transiciones: 4
+ Uso de transiciones:
+  - none: 1 veces
+  - flash: 8 veces
+  - fade: 7 veces
+  - dissolve: 6 veces
